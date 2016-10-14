@@ -1,0 +1,7 @@
+*.pyc
+/venv
+/build-*
+/dist
+/data
+/.virtualenv
+/dependencies

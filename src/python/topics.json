@@ -1,0 +1,42 @@
+{
+	"services" : {
+		"instagram":"tag",
+		"twitter":"keyword",
+		"flickr":"tag",
+		"youtube":"keyword",
+		"flickr":"tag",
+		"tumblr":"tag",
+		"vk":"tag"
+	},
+	"topics" : {
+		"vaccination_alt":[
+			"vaccination",
+			"vaccinations"
+		],
+		"vaccination":[
+			"vaccination",
+			"vaccinations",
+			"vaccine",
+			"vaccines",
+			"inoculation",
+			"inoculations",
+			"immunization",
+			"immunizations",
+			"shot",
+			"shots",
+			"chickenpox",
+			"disease",
+			"diseases",
+			"hepatitis",
+			"infection",
+			"infections",
+			"measles",
+			"outbreak",
+			"mumps",
+			"rabies",
+			"tetanus",
+			"virus",
+			"autism"
+		]
+	}
+}
